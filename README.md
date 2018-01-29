@@ -1,2 +1,2 @@
-# ip-centro
-Web Service y aplicación en Android
+# ip-metro
+Web Service y aplicación en Android para IP-METRO
